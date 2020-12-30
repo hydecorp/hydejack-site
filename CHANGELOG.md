@@ -4,7 +4,7 @@ layout: page
 
 # CHANGELOG
 {:.no_toc}
-
+adapted
 * this list will be replaced by the toc
 {:toc .large-only}
 
