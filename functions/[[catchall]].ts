@@ -1,8 +1,8 @@
 /// <reference types="@cloudflare/workers-types/2023-07-01" />
 
 const ProductId = 'nuOluY';
-const DefaultDiscountCode = 'v8b41wp'
-const DefaultDiscount = 0.9
+const DefaultDiscountCode = '2pzhv76'
+const DefaultDiscount = 0.8
 const CountryOverride = '';
 
 interface Env {
@@ -127,7 +127,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
           const { defaultPrice, price } = result;
           if (price == defaultPrice) {
             element.setInnerContent(
-              html`Price permanently reduced by <strong>10%</strong>! You can save the offer code <strong>${DefaultDiscountCode.toUpperCase()}</strong> to apply this discount in the future.${discountBacklink}`, 
+              html`Price reduced by <strong>${100 - (DefaultDiscount * 100)}%</strong>! You can save the offer code <strong>${DefaultDiscountCode.toUpperCase()}</strong> to apply this discount in the future.${discountBacklink}`, 
               { html: true },
             );
           } else {
