@@ -49,7 +49,7 @@ hydejack:
 
 Dark Mode is now available for buyers of the [PRO version][buy].
 
-[buy]: https://app.simplegoods.co/i/NATYVLYT
+[buy]: https://buy.polar.sh/polar_cl_CczddJM50iZgR_iuUhc_54RcSg1KasTEJtOSqTvlpUI
 
 <script type="module">
   const classes = document.body.classList.toString();

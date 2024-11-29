@@ -18,9 +18,9 @@ qwtel:
     |:------------------------------|:-------------------:|:-------------------:|
     | [Features][fea]               | &#x2714;            | &#x2714;            |
     | [PRO Features][pro]           |                     | &#x2714;            |
-    | __Price__                     | __Free__            | __$99__{:.price} <small>One-Time Purchase</small>[^xx] |
+    | __Price__                     | __Free__            | __$79__{:.price} <small>One-Time Purchase</small>[^xx] |
     |===============================+=====================+=====================|
-    |                               | [__Download__][kit] | [__Buy PRO__][buy]{:.gumroad-button.no-mark data-gumroad-single-product="true"} |
+    |                               | [__Download__][kit] | [__Buy PRO__][buy]{:.btn.btn-primary} |
     {:.stretch-table.dl-table}
 
     [fea]: /#features
@@ -28,11 +28,7 @@ qwtel:
     [kit]: https://github.com/hydecorp/hydejack-starter-kit/archive/v9.2.1.zip
     [nfy]: https://app.netlify.com/start/deploy?repository=https://github.com/hydecorp/hydejack-starter-kit
     [dtn]: https://www.netlify.com/img/deploy/button.svg
-    [buy]: https://gum.co/nuOluY
-
-    [^xx]: 
-        Discounts may apply, check [Gumroad][buy]{:data-gumroad-single-product="true"} for up-to-date pricing.
-        {:.price-desc}
+    [buy]: https://buy.polar.sh/polar_cl_CczddJM50iZgR_iuUhc_54RcSg1KasTEJtOSqTvlpUI
 
   # This photo will be used in the about section
   picture:

@@ -71,10 +71,9 @@ The Free Version of Hydejack is now availabe on [RubyGems](https://rubygems.org/
 and for the first time also on [GitHub Packages](https://github.com/hydecorp/hydejack/packages). 
 The source code is available on [GitHub](https://github.com/hydecorp/hydejack) as always.
 
-The PRO Version is scheduled to release on July 7th on Gumroad. Pre-Orders are open now:
+The PRO Version is scheduled to release on July 7th on ~~Gumroad~~. Pre-Orders are open now:
 
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
+<a class="no-mark" href="https://buy.polar.sh/polar_cl_CczddJM50iZgR_iuUhc_54RcSg1KasTEJtOSqTvlpUI"><img src="https://polar.sh/embed/product.svg?organizationId=b750a733-43ac-41dd-acee-c0433b7c3d34&productId=6533b366-39b9-4af1-a7e4-9fbdbd658d2b" alt="Hydejack PRO" /></a>
 
 
 [^1]: If you are a fan of the old two-column layout, or don't like modern design tropes such as mega headlines, Hydejack lets you revert these changes on a case-by-case basis via configuration options.

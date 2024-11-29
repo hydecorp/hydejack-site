@@ -18,7 +18,7 @@ image: /assets/img/blog/hydejack-8.png
 
 Use the the form below to purchase Hydejack PRO:
 
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
+<a class="no-mark" href="https://buy.polar.sh/polar_cl_CczddJM50iZgR_iuUhc_54RcSg1KasTEJtOSqTvlpUI"><img src="https://polar.sh/embed/product.svg?organizationId=b750a733-43ac-41dd-acee-c0433b7c3d34&productId=6533b366-39b9-4af1-a7e4-9fbdbd658d2b" alt="Hydejack PRO" /></a>
 
 
 [blog]: /blog/
@@ -44,7 +44,7 @@ Use the the form below to purchase Hydejack PRO:
 [kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
 [src]: https://github.com/hydecorp/hydejack
 [gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://gum.co/nuOluY
+[buy]: https://buy.polar.sh/polar_cl_CczddJM50iZgR_iuUhc_54RcSg1KasTEJtOSqTvlpUI
 
 [gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
 [rouge]: http://rouge.jneen.net

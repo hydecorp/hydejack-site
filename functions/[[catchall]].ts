@@ -105,7 +105,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
   const discountBacklink = `&nbsp;<a href="#fnref:xx" class="reversefootnote" role="doc-backlink">↩︎</a>`;
 
   const transformedResponse = new HTMLRewriter()
-    .on(".price", {
+    .on(".gumroad-price", {
       async element(element) {
         const result = await (_promise ??= getPrices(request, env, context.waitUntil));
         if (result != null) {
@@ -120,7 +120,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         }
       }
     })
-    .on(".price-desc", {
+    .on(".gumroad-price-desc", {
       async element(element) {
         const result = await (_promise ??= getPrices(request, env, context.waitUntil));
         if (result != null) {
